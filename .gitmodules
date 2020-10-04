@@ -1,0 +1,3 @@
+[submodule "quick-fea"]
+	path = quick-fea
+	url = https://github.com/LukeMinnich/quick-fea.git
